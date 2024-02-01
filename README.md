@@ -1,6 +1,7 @@
 # Random Quote Generator
 
 This is a simple web application that generates random quotes using the [Quotable API](https://api.quotable.io/random). The application is built using HTML, CSS, and JavaScript.
+![project4](https://github.com/7awad/Random-Quote-Generator/assets/123418692/76541f51-c552-47b6-b3b6-6e1b47ccd9b7)
 
 ## Features
 - Display a random quote and its author.
